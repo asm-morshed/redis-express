@@ -1,0 +1,18 @@
+{
+  "name": "redis-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asm-morshed",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "g": "^2.0.1",
+    "nodemon": "^1.18.6",
+    "redis": "^2.8.0"
+  }
+}
