@@ -1,4 +1,5 @@
 // https://github.com/MicrosoftArchive/redis
+http://www.coding4developers.com/node-js/node-js-redis-app-search-user-in-node-js-and-redis-register-user-in-redis-database-in-node-js-delete-user-from-redis-database-in-node-js/
 const express = require('express')
 const bodyParser = require('body-parser');
 
